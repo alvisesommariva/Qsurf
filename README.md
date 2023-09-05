@@ -14,4 +14,4 @@ The main folder contains the following files:
 Reference:
 
 [1] Qsurf: compressed QMC integration on algebraic surfaces,
-G. Elefante, A. Sommariva, M. Vianello,
+G. Elefante, A. Sommariva, M. Vianello.
